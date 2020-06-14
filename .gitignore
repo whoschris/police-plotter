@@ -1,0 +1,12 @@
+mapper.py
+data/
+main.py
+db_*.sqlite
+*.csv
+*.exe
+venv/
+setup.bat
+.idea/
+.~*
+__pycache__/
+.ipynb_checkpoints/
